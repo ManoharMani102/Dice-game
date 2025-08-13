@@ -1,3 +1,4 @@
+
 .container {
   width: 70%;
   margin: auto;
@@ -11,21 +12,26 @@
 }
 
 body {
-  background-color: aquamarine;
+  background-image: url(backimage.png);
+  background-size: 58%;
+
+  
+
 }
 
 h1 {
   margin: 30px;
-  font-family: 'Lobster', cursive;
+  text-align: center;
   text-shadow: 1px 0 black;
   font-size: 8rem;
-  color: black;
+  color: rgba(9, 239, 223, 0.808);
 }
 
 p {
   font-size: 2rem;
-  color: red;
-  font-family: 'Indie Flower', cursive;
+  color: rgb(43, 17, 239);
+  font-weight: bolder;  
+  
 }
 
 img {
